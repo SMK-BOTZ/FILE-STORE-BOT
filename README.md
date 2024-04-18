@@ -9,11 +9,11 @@
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
-don`t forget to [thanks US](https://t.me/BinaryQuest)
+don`t forget to [thanks US](https://t.me/SMKTHEBOTZ)
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Sahil_x_official](https://www.telegram.dog/binaryQuest)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@Sahil_x_official](https://www.telegram.dog/SMKTHEBOTZ)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -120,7 +120,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/BQChats) For Support/Assistance And Our [Channel](https://www.telegram.dog/BinaryQuest) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/SMKSUPPORTGROUP) For Support/Assistance And Our [Channel](https://www.telegram.dog/SMKTHEBOTZ) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -132,7 +132,7 @@ Report Bugs, Give Feature Requests There..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](http://t.me/BinaryQuest) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](http://t.me/SMKTHEBOTZ) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
