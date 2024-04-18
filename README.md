@@ -13,7 +13,7 @@ don`t forget to [thanks US](https://t.me/SMKTHEBOTZ)
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Sahil_x_official](https://www.telegram.dog/SMKTHEBOTZ)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@SHUBHAM_X_OFFICIAL](https://www.telegram.dog/SMKTHEBOTZ)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
